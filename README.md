@@ -9,5 +9,14 @@
   <body>
       <img src="img/avatar-perfil.png" alt="avatar do gabriel" srcset="">
       <p>eu sou gabriel_</p>
-      <
+      <h1>eu estudo programação</h1>
+      <p>sou estudante do segundo ano do ensino médio
+      <p>minhas habilidades</p>
+      <div>
+          <p>HTML</p>
+          <p>CSS</p>
+          <p>javascript</p>
+          <p>scratch</p>
+      </div>
+  </body>
   </html>
